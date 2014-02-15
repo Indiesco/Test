@@ -7,3 +7,6 @@ Branch 2
 =======
 Updated Branch 2
 >>>>>>> origin/Branch2
+
+
+Change in Ogirinal Master Repository
