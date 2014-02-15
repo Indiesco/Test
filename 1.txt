@@ -9,9 +9,14 @@
 Change in 1.txt from Branch 1
 
 ==========================================
+<<<<<<< HEAD
 >>>>>>> origin/Branch1
 =======
 =====================================
 Change from Branch 2
 =====================================
 >>>>>>> origin/Branch2
+=======
+
+Change in 1.txt from Branch 1 4:33
+>>>>>>> origin/Branch1
