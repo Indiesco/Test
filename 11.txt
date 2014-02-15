@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Text Changed from Branch 2
+=======
+Branch 2
+>>>>>>> origin/Branch2
